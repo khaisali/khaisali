@@ -3,10 +3,10 @@
 <h3 align="center">A passionate Software student from India</h3>
 
 - 👀 I’m interested in Analytics and engineering
-- 🌱 I’m learning data science
-- 💞️ I’m love anime and many physical activities
+- 🌱 I’m Researcher in data science
+- 💞️ I’m love Sci-fi, games and fun activities
 - 📫 How to reach me shaikskhais@gmailcom
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Cloud and Cyber Concepts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
